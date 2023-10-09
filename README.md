@@ -7,3 +7,4 @@ Algerian forest fire dataset: Temperature prediction
    * Ridge regression
    * Lasso regression
 Logistic regression on algerian forest fire dataset
+Fraud detection on credit card data: logistic regression
