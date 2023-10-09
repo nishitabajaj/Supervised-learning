@@ -6,4 +6,4 @@ Algerian forest fire dataset: Temperature prediction
    * Linear regression
    * Ridge regression
    * Lasso regression
-
+Logistic regression on algerian forest fire dataset
