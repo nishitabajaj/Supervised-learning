@@ -8,3 +8,4 @@ Algerian forest fire dataset: Temperature prediction
    * Lasso regression
 Logistic regression on algerian forest fire dataset
 Fraud detection on credit card data: logistic regression
+DATASET LINK FOR CREDIT CARD DATA : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
